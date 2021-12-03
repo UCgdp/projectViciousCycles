@@ -23,14 +23,14 @@
 <h1>Kawaski</h1>
 </head>
 <body>
-    <p> <img src="CSS/images/pexels-sourav-mishra-5541989.jpg" width="200" height="300">
+    <p> <img src="pexels-sourav-mishra-5541989.jpg" width="200" height="300">
         <ul>Uni-Trak® rear suspension</ul>ul>
         <ul>310mm semi-floating petal front disc brake</ul>
         <ul>Twin LED headlights</ul>
        <ul>High-grade multifunction dash instrumentation</ul>
     </p>
     
-       <img src="CSS/images/pexels-akshay-anil-10185916.jpg" alt="Photo by Akshay Anil from Pexels"
+       <img src="pexels-akshay-anil-10185916.jpg" alt="Photo by Akshay Anil from Pexels"
        width="200" height="300">
 <p>
        <ul>948cc LIQUID-COOLED</ul> 
