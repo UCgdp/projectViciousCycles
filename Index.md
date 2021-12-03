@@ -4,37 +4,35 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Vicious Cycles</title>
-
-<link rel="stylesheet" href="stylesheet.css" >
+     <title>Vicious Cycles</title>
+<link rel="stylesheet" href="stylesheet.css">
+    </head>
+    <head>
 <style>
    body{background-color: #E7FBFB}
-    h1 {font-size:4em}
+   font-size:4em}
         text-align:center
-        {color: #010B5B}
-</style>
-<img src="vicious-cycles-logo.png" width="1000" height="200" alt="vicious-cycles-logo"
-
+        color: #010B5B}
+        </style>
+ <style>
+    <img src="vicious-cycles-logo.png" width="1000" height="200" alt="vicious-cycles-logo"
 <div class="topnav" id="myTopnav">
-  <a href="#home" class="active">Home</a>
   <a href="#davidson">Harley Davidson</a>
-  <a href="#contact">Contact</a>
   <a href="#Egale">American Egale</a>
   <a href="#Kawaski">Kawaski</a>
+  <a href="#contact">Contact</a>
   <a href="javascript:void(0);" class="icon" onclick="myFunction()">
     <i class="fa fa-bars"></i>
   </a>
 </div>
+</style>
 </head>
-<section>
-    <h1>Vicious Cycles</h1>
-</section>
-<article>
+
+    <head>
     <h2>About us</h2>
-<main>
-    
-    <p>
-       <strong>Vicious Cycles Inc</strong> is a (your town)-based cycle workshop 
+    </head>
+<article>
+    Vicious Cycles Inc is a (your town)-based cycle workshop 
        founded by a few like-minded individuals in late 2010. Our mechanics build the bikes and man the workshop. 
        Our customer service staff attends to the day-to-day operations. We hope to create and foster 
        a strong passion for the local biking 
@@ -43,10 +41,8 @@
        We believe in the stories between your cycle and you. We believe in having fun. No matter the circumstances, we bike hard and we bike often.
        You get on your bike, you ride, you fall, you might get pulled over, you overcome it all and you ride again. 
        It’s a Vicious Cycle! So make it worth the while, don't just be part of the numbers. 
-       Ride your cycle, chase your dreams, live your life.</p>
-</p>
+       Ride your cycle, chase your dreams, live your life.
 
-<p></p>
-
+    </article>
 </body>
 </html>
