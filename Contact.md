@@ -23,3 +23,4 @@
 
   </body>
     </html>
+![vicious-cycles-logo](https://user-images.githubusercontent.com/93545330/144769354-23676c0f-ae1c-486e-a580-bb69c4a5bd14.png)
