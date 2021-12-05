@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Vicious Cycles</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+<img src="css/images/vicious-cycles-logo.png" width="300" height="400" alt="logo"
+
+h1{ body{color: #E7FBFB}
+    h1 {font-size:4em
+    text-align:center
+    color: #010B5B}
+
+images{
+  box-sizing: border-box;
+  font-family:Baskerville, "Baskerville Old Face", "Hoefler Text"
+}
+
+body {
+  margin: 0;
+  font-family: Baskerville, "Baskerville Old Face", "Hoefler Text"
+}
+}
+
+/* Style the top navigation bar */
+.topnav {
+  overflow: hidden;
+  background-color: #ecdcd5;
+}
+
+/* Style the topnav links */
+.topnav a {
+  float: left;
+  display: block;
+  color:  #a0522d
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change color on hover */
+.topnav a:hover {
+  background-color: #8d847f;
+  color: black;
+}
+
+/* Style the content */
+.content {
+  background-color: #8d847f;
+  padding: 10px;
+  height: 200px; /* Should be removed. Only for demonstration */
+}
+
+/* Style the footer */
+.footer {
+  background-color: #f1f1f1;
+  padding: 10px;
+}
+davidson.html{
+  background-color: black;
+    color:#a0522d
+    text-align: center
+    images: width"200" height"300"
+  
+}
+</style>
+</head>
+<body>
+
+<div class="topnav">
+  <a href="#">Harly Davidson</a>
+  <a href="#">American Egale</a>
+  <a href="#> Kawaski</a>
+  <a href="#">Contact</a>
+</div>
+
+<div class="content">
+  <h2>Vicious Cycles</h2>
+  <p>A topnav, content and a footer.</p>
+</div>
+
+<div class="More Info.">
+  <p>Footer</p>
+</div>
+
+</body>
+</html>
+
+
+
