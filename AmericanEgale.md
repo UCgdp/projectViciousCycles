@@ -7,16 +7,9 @@
     <link rel="stylesheet" href="linkstylesheet.css" >
     <title>American Egale</title>
 </head>
-    <img src="vicious-cycles-logo.png" width="1000" height="200" alt="vicious-cycles-logo">
+    <p> <img src="vicious-cycles-logo.png" width="1000" height="200" alt="vicious-cycles-logo"></p>
 <body>
-    <style> 
- body{background-color: black;
-    color:#a0522d
-    text-align: center
-  
- }
-    </style>
-<div class="topnav" id="myTopnav">
+    <div class="topnav" id="myTopnav">
       <a href="#home" class="active">Home</a>
         <a href="#davidson">Harley Davidson</a>
         <a href="#Egale"class="active">American Egale</a>
@@ -26,6 +19,11 @@
           <i class="fa fa-bars"></i>
       </div>
         </body>  
+    <style> 
+ body{background-color: black;
+     color:#a0522d}
+    text-align: center}
+    </style>
     
 <p><img src="pexels-blue-bird-7243019.jpg" width="200" height="300" alt="Photo by Blue Bird from Pexels"</p>
 <h1> <strong>Specs</strong></h1>
@@ -40,12 +38,10 @@
     <ul>F30 bracket</ul>
     <ul>Internal cable routing</ul>
     <ul> 25 years of mountain-bike experience</ul>
-</p>
+    </p>
 
-<h1>American Egale</h1>
 </head>
 <body>
- 
-        <footer> <a href="https://americaneagle.online" target="_blank"> </footer>
+  <footer> <a href="https://americaneagle.online" target="_blank"> </footer>
     </body>
     </html>
