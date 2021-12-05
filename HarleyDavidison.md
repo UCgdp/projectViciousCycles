@@ -10,6 +10,8 @@
  body{background-color: black;
     color:#a0522d
     text-align: center
+        font-size:8pt
+        font-family: "Baskerville Old Face", "Hoefler Text"
   
  }
     </style>
@@ -28,10 +30,9 @@
 <body>
    
 <p> <img src= "pexels-sourav-mishra-2516874.jpg" alt="Photo by Sourav Mishra from Pexels" width="200" height="300"</p>
-<p>Sports S is the first  of the Sportster sage. 
-    In 1957 that outperformed the competition is 
-    now rebuilt to block away the standards of today. </p>
-    <p>
+    <h1><stong>Specs</strong></h1>
+  
+<p>
     <ul> Revolution® Max 1250T Powertrain </ul>
     <ul> 94 ft. lbs. Torque </ul>
     <ul> 121 Horsepower Weight (As Shipped/Running Order): 486/502 pounds </ul>
@@ -43,9 +44,10 @@
     <ul> Cruise Control</ul>
     </p>
 
-<p><img src="pexels-frans-van-heerden-674048.jpg" alt="Photo by Frans Van Heerden from Pexels" width="200" height="300"
-  
-  <ul> 121 Horsepower Weight (As Shipped/Running Order): 486/502 pounds </ul>
+<p><img src="pexels-frans-van-heerden-674048.jpg" alt="Photo by Frans Van Heerden from Pexels" width="200" height="300"</p>
+    <h1><storng>Specs</strong><h1> 
+      <br>
+  <ul>121 Horsepower Weight (As Shipped/Running Order): 486/502 pounds </ul>
    <ul>  4-inch Round TFT Display Screen </ul>
    <ul>  Bluetooth® Connectivity and Moving Maps Navigation </ul>
     <ul> Cornering Rider Safety Enhancements including ABS and Traction Control</ul>
@@ -55,7 +57,7 @@
 
   </p>
 
-        <footer> <a href="https://www.harley-davidson.com/us/en/index.html" target="_blank"> </footer>
+   <footer> <a href="https://www.harley-davidson.com/us/en/index.html" target="_blank"> </footer> 
 
 
 
