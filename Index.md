@@ -4,18 +4,9 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-     <title>Vicious Cycles</title>
-<link rel="stylesheet" href="stylesheet.css">
-    </head>
-    <head>
-<style>
-   body{background-color: #E7FBFB}
-   font-size:4em}
-        text-align:center
-        color: #010B5B}
-        </style>
- <style>
-    <img src="vicious-cycles-logo.png" width="1000" height="200" alt="vicious-cycles-logo"
+    <link rel="stylesheet" href="stylesheet.css">
+    <title>Vicious Cycles</title>
+     <img src="vicious-cycles-logo.png" width="1000" height="200" alt="vicious-cycles-logo">
 <div class="topnav" id="myTopnav">
   <a href="#davidson">Harley Davidson</a>
   <a href="#Egale">American Egale</a>
@@ -25,9 +16,12 @@
     <i class="fa fa-bars"></i>
   </a>
 </div>
-</style>
 </head>
-
+     <style>
+  body {background-color: #E7FBFB}
+        article{ color: #010B5B;}
+        article{ font-size: 4em;}
+        </style>
     <head>
     <h2>About us</h2>
     </head>
@@ -43,6 +37,6 @@
        It’s a Vicious Cycle! So make it worth the while, don't just be part of the numbers. 
        Ride your cycle, chase your dreams, live your life.
 
-    </article>
+ 
 </body>
 </html>
