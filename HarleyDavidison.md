@@ -4,13 +4,9 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" herf="stylesheet.css" >
+    <link rel="linkstylesheet" herf="linkstylesheet.css">
 <title>Vicious Cycles</title>
-<link rel="stylesheet" href="stylesheet.css" >
-<style> 
- body{background: black;
-    font-color: Sienna 
-        font-size:1em}
-    </style>
     <img src="vicious-cycles-logo.png" width="1000" height="200" alt="logo">
 <div class="topnav" id="myTopnav">
     <a href="#davidson"class="active">Harley Davidson</a>
@@ -21,14 +17,13 @@
       <i class="fa fa-bars"></i>
     </a>
   </div>
-    
+ 
 <h1>Harley Davidson</h1>
 </head>
 <body>
    
 <p> <img src= "pexels-sourav-mishra-2516874.jpg" alt="Photo by Sourav Mishra from Pexels" width="200" height="300"</p>
     <h1><stong>Specs</strong></h1>
-  
 <p>
     <ul> Revolution® Max 1250T Powertrain </ul>
     <ul> 94 ft. lbs. Torque </ul>
