@@ -15,6 +15,7 @@
   
  }
     </style>
+<img src="vicious-cycles-logo.png" width="1000" height="200">
 <div class="topnav" id="myTopnav">
     <a href="#home" >Home</a>
     <a href="#davidson"class="active">Harley Davidson</a>
