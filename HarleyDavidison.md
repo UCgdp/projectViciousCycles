@@ -7,24 +7,21 @@
 <title>Vicious Cycles</title>
 <link rel="stylesheet" href="stylesheet.css" >
 <style> 
- body{background-color: black;
-    color:#a0522d
-    text-align: center
-        font-size:8pt
-        font-family: "Baskerville Old Face", "Hoefler Text"
-  
- }
+ body{background: black;
+    font-color: Sienna 
+        font-size:1em}
     </style>
+    <img src="vicious-cycles-logo.png" width="1000" height="200" alt="logo">
 <div class="topnav" id="myTopnav">
-    <a href="#home" >Home</a>
     <a href="#davidson"class="active">Harley Davidson</a>
-    <a href="#contact">Contact</a>
-    <a href="#Egale">American Egale</a>
     <a href="#Kawaski">Kawaski</a>
+    <a href="#Egale">American Egale</a>
+    <a href="#Contact">Contact</a>
     <a href="javascript:void(0);" class="icon" onclick="myFunction()">
       <i class="fa fa-bars"></i>
     </a>
   </div>
+    
 <h1>Harley Davidson</h1>
 </head>
 <body>
