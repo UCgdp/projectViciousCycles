@@ -83,7 +83,23 @@ davidson.html{
   <p>Footer</p>
 </div>
 
+<style>
+https://www.kawasaki.com/en-us/:link{color:blue;}
+a.one:visited {color:grey;}
+a.one:hover {color:black;}
+
+https://www.harley-davidson.com/us/en/index.html:link{color:blue;}
+a.one:visited {color:grey;}
+a.one:hover {color:black;}
+
+https://americaneagle.online:link {color:blue;}
+a.one:visited {color:grey;}
+a.one:hover {color:black;}
+
+<p><b><a class="one" href="https://www.kawasaki.com/en-us/" target="_blank">Kawaski</a></b></p>
+<p><b><a class="one" href="www.harley-davidson.com/us/en/index.html" target="_blank">Harley Davidson</a></b></p>
+<p><b><a class="one" href="https://americaneagle.online" target="_blank">American Egale</a></b></p>
+
+
 </body>
 </html>
-
-
